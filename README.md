@@ -1,4 +1,15 @@
 # nimap_task
+
+Used Technologies:
+--------------------
+1. ReactJS - FrontEnd
+2. NodeJS - BackEnd
+3. MongoDB - Database
+
+Other Technologies
+ExpressJS
+Axios
+React Router Dom
 There are 2 main folders:
 
 1) frontend ( React )
